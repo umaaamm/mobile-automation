@@ -24,7 +24,7 @@ public class LoginSteps {
                 .dashboard()
                 .verifyDashboardDisplayed();
     }
-
+//
 //    @Then("user should see dashboard")
 //    public void verifyDashboard() {
 //        throw new RuntimeException("Testing Screenshot");

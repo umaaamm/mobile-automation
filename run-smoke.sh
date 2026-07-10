@@ -1,14 +1,21 @@
+##!/bin/bash
+#
+#echo "=========================="
+#echo "Running Smoke Test..."
+#echo "=========================="
+#
+#mvn clean test -Dtest=RunSmokeTest
+#
+#echo
+#echo "=========================="
+#echo "Opening Allure Report..."
+#echo "=========================="
+#
+#allure serve allure-results
+
 #!/bin/bash
 
-echo "=========================="
-echo "Running Smoke Test..."
-echo "=========================="
+mvn clean compile
 
-mvn clean test -Dtest=RunSmokeTest
-
-echo
-echo "=========================="
-echo "Opening Allure Report..."
-echo "=========================="
-
-allure serve allure-results
+java -cp target/classes \
+com.company.automation.launcher.ParallelLauncher

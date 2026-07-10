@@ -1,0 +1,7 @@
+[INFO] Login with valid credentials
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed

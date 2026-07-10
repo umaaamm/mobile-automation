@@ -1,0 +1,3 @@
+Device Name     : SM-A536E
+Android Version : 16
+UDID            : RRCT3014CDK

@@ -1,5 +1,6 @@
 package com.company.automation.hooks;
 
+import com.company.automation.config.RuntimeConfig;
 import com.company.automation.driver.DriverFactory;
 import com.company.automation.flows.FlowManager;
 import com.company.automation.logger.LogManager;
@@ -21,7 +22,6 @@ public class Hooks {
                 scenario.getName()
         );
 
-
         DriverFactory.initialize();
 
         flow = new FlowManager();
@@ -29,6 +29,20 @@ public class Hooks {
 
     @After
     public void afterScenario(Scenario scenario) {
+
+        AllureUtils.attachText(
+                "Device Information",
+                """
+                        Device Name     : %s
+                        Android Version : %s
+                        UDID            : %s
+                        """.formatted(
+                        RuntimeConfig.get("device.name"),
+                        RuntimeConfig.get("platform.version"),
+                        RuntimeConfig.get("device.udid")
+                )
+        );
+
         AllureUtils.attachText(
                 "Execution Log",
                 LogManager.getLogs()

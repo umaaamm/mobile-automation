@@ -16,7 +16,7 @@ public class DriverTest extends BaseTest {
     @Test
     void debugLocator() throws Exception {
         DriverFactory.initialize();
-        
+
         Thread.sleep(3000);
 
         var driver = DriverManager.getDriver();
