@@ -1,7 +1,9 @@
 package com.company.automation.utils;
 
 import com.company.automation.locators.Locator;
+import com.company.automation.locators.LocatorFactory;
 import com.company.automation.logger.LoggerUtils;
+import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.WebElement;
 
 public class ElementActions {
@@ -44,6 +46,21 @@ public class ElementActions {
         });
     }
 
+    public void selectDropdown(Locator dropdown,
+                               String value) {
+
+        RetryExecutor.execute(3, () -> {
+            LoggerUtils.step("Select dropdown : " + value);
+
+            WaitUtils.visible(dropdown.by()).click();
+            WaitUtils.waitForMillis(300);
+
+            WaitUtils.visible(
+                    LocatorFactory.flutterText(value)
+            ).click();
+        });
+    }
+
     public String text(Locator locator) {
         LoggerUtils.step("Text : " + locator.name());
 
@@ -54,6 +71,15 @@ public class ElementActions {
         LoggerUtils.step("Displayed : " + locator.name());
 
         return WaitUtils.visible(locator.by()).isDisplayed();
+    }
+
+    public static void equals(String expected, Locator locator) {
+
+        String actual = WaitUtils.visible(locator.by())
+                .getText()
+                .trim();
+
+        Assertions.assertEquals(expected, actual);
     }
 
 }

@@ -13,4 +13,12 @@ public class DashboardPage extends BasePage {
         return element.text(DashboardLocator.TITLE);
     }
 
+    public void clickButtonTransfer() {
+        element.click(DashboardLocator.BUTTON_TRANSFER);
+    }
+
+    public void clickButtonLogout() {
+        element.click(DashboardLocator.BUTTON_LOGOUT);
+    }
+
 }

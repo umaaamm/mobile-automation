@@ -18,4 +18,10 @@ public final class LoginLocator {
     public static final Locator LOGIN_BUTTON = new Locator("Button Login",
             LocatorFactory.flutterId("btn_login"));
 
+    public static final Locator TITLE_LOGIN = new Locator("Title Halaman Login",
+            LocatorFactory.flutterId("title_login"));
+
+    public static final Locator TEXT_ERROR = new Locator("Username dan Password harus diisi",
+            LocatorFactory.flutterId("txt_user_pass_null"));
+
 }

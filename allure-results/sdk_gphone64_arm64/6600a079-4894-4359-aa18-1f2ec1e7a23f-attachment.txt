@@ -1,0 +1,10 @@
+[INFO] Successful Transfer
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed
+[ACTION] Click : Button Transfer
+[ACTION] Click : Button Transfer
+[ACTION] Click : Button Transfer

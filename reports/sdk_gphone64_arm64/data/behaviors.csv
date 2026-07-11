@@ -1,2 +1,7 @@
 "BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","Dashboard","1","0","Navigate to Transfer Page","0"
+"0","","0","Dashboard","1","0","Logout","0"
 "0","","0","Login","1","0","Login with valid credentials","0"
+"0","","0","Transfer","1","0","Failed Transfer and input amount is null","0"
+"0","","0","Login","1","0","Login with invalid credentials","0"
+"0","","0","Transfer","1","0","Successful Transfer","0"

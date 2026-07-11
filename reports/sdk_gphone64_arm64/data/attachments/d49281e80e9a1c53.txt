@@ -1,0 +1,5 @@
+[INFO] Login with invalid credentials
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[STEP] Displayed : Username dan Password harus diisi

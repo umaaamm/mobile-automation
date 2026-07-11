@@ -17,4 +17,12 @@ public class LoginPage extends BasePage {
         element.click(LoginLocator.LOGIN_BUTTON);
     }
 
+    public boolean isDisplayed() {
+        return element.displayed(LoginLocator.TITLE_LOGIN);
+    }
+
+    public boolean isErrorDisplayed() {
+        return element.displayed(LoginLocator.TEXT_ERROR);
+    }
+
 }

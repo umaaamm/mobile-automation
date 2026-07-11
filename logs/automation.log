@@ -1,1580 +1,2260 @@
-2026-07-10 11:34:34
+2026-07-11 13:20:22
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 11:34:34
+2026-07-11 13:20:22
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:34:34
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 13:20:22
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 11:34:46
+2026-07-11 13:20:33
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 11:34:47
+2026-07-11 13:20:35
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 11:34:49
+2026-07-11 13:20:36
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 11:34:50
+2026-07-11 13:20:37
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:34:50
+2026-07-11 13:20:37
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:34:50
+2026-07-11 13:20:38
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 11:41:30
+2026-07-11 13:20:38
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 11:41:30
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:20:59
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:41:30
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:21:20
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 11:41:36
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:41:38
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:41:40
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:41:41
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:41:41
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:41:42
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:42:00
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:42:00
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:42:00
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:42:07
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:42:09
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:42:11
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:42:11
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:42:11
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:42:12
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:43:51
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:43:51
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:43:51
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:43:57
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:43:59
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:44:00
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:44:01
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:44:01
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:44:02
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:50:27
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:50:27
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:50:27
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:50:32
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:50:35
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:50:36
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:50:37
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:50:37
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:50:38
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:51:26
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:51:32
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:51:34
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:51:36
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:51:37
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:51:37
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:51:38
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:52:00
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:52:06
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:52:08
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:52:11
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:52:11
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:52:12
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 11:55:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 11:55:18
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:55:20
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:55:22
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:55:22
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:55:22
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:55:24
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 11:55:27
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 11:55:29
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 11:55:31
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 11:55:31
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 11:55:31
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 11:55:32
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 12:02:21
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:21:41
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 7ee935fc-8633-40a2-904e-f7abbd89101c not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 7ee935fc-8633-40a2-904e-f7abbd89101c not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 7ee935fc-8633-40a2-904e-f7abbd89101c not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 7ee935fc-8633-40a2-904e-f7abbd89101c not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 7ee935fc-8633-40a2-904e-f7abbd89101c not found
-2026-07-10 12:02:21
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Navigate_to_Transfer_Page_20260711_132141.png
+2026-07-11 13:21:42
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:02:21
+2026-07-11 13:21:42
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 12:02:21
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 4116f352-7f92-42db-b140-4ae639bbbb78 not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 4116f352-7f92-42db-b140-4ae639bbbb78 not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 4116f352-7f92-42db-b140-4ae639bbbb78 not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 4116f352-7f92-42db-b140-4ae639bbbb78 not found
-2026-07-10 12:02:21
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 4116f352-7f92-42db-b140-4ae639bbbb78 not found
-2026-07-10 12:02:21
+                Automation - Scenario : Logout
+2026-07-11 13:21:42
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:02:21
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 12:02:21
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 12:02:27
+2026-07-11 13:21:48
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 12:02:29
+2026-07-11 13:21:51
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 12:02:31
+2026-07-11 13:21:53
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 12:02:31
+2026-07-11 13:21:53
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 12:02:31
+2026-07-11 13:21:53
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 12:02:32
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 12:02:32
+2026-07-11 13:21:54
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 12:02:34
+2026-07-11 13:21:54
                 [main]
                 INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 12:02:36
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 13:22:15
                 [main]
                 INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 12:02:36
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 13:22:36
                 [main]
                 INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 12:02:36
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 12:02:38
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 12:04:47
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 13:22:58
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a0c40310-5253-4203-b97c-3c238a1fccfc not found
-2026-07-10 12:04:47
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Logout_20260711_132257.png
+2026-07-11 13:22:59
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:22:59
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 13:22:59
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:23:05
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:23:07
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:23:08
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:23:09
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:23:09
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:23:10
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:23:10
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:23:10
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 13:23:10
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:23:17
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:23:19
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:23:21
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:23:21
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:23:21
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:23:22
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:23:22
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:23:43
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:24:04
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:24:25
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a0c40310-5253-4203-b97c-3c238a1fccfc not found
-2026-07-10 12:04:47
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Successful_Transfer_20260711_132425.png
+2026-07-11 13:25:23
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:25:23
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 13:25:23
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:25:32
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:25:34
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:25:36
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:25:36
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:25:36
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:25:37
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:25:37
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:26:17
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:26:17
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 13:26:17
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:26:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:26:48
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 13:26:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:26:59
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:27:02
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:27:03
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:27:05
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:27:05
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:27:05
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:27:05
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:27:06
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 13:27:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:07
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 13:27:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:13
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:27:15
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:27:16
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:27:17
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:27:17
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:27:18
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:27:18
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 13:27:19
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 13:27:19
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:19
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 13:27:19
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:25
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:27:28
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:27:30
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:27:30
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:27:30
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:27:31
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:27:32
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:32
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 13:27:32
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 13:27:38
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 13:27:40
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 13:27:41
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 13:27:42
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 13:27:42
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 13:27:42
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 13:27:42
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 13:27:43
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:07:39
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:07:39
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:07:39
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:07:48
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:07:50
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:07:51
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:07:53
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:07:53
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:07:53
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:07:53
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:07:54
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:07:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:07:54
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:07:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:08:00
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:08:03
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:08:04
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:08:05
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:08:05
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:08:06
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:08:06
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:08:07
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:08:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:08:07
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 14:08:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:08:14
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:08:16
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:08:17
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:08:18
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:08:18
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:08:19
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:08:20
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:08:20
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:08:20
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:08:26
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:08:28
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:08:29
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:08:30
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:08:30
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:08:31
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:08:31
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:08:32
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:08:32
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:08:33
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:08:56
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:09:17
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:09:38
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a0c40310-5253-4203-b97c-3c238a1fccfc not found
-2026-07-10 12:04:47
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Successful_Transfer_20260711_140938.png
+2026-07-11 14:11:41
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:11:41
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:11:41
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:11:48
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:11:50
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:11:51
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:11:52
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:11:52
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:11:52
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:11:52
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:11:53
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:11:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:11:54
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:11:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:11:59
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:12:01
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:12:03
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:12:03
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:12:03
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:12:04
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:12:04
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:12:05
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:12:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:12:06
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 14:12:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:12:12
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:12:15
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:12:16
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:12:17
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:12:17
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:12:18
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:12:18
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:12:18
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:12:18
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:12:24
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:12:27
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:12:28
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:12:29
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:12:29
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:12:30
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:12:30
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:12:30
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:12:30
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:12:32
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:12:34
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:12:54
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:13:16
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a0c40310-5253-4203-b97c-3c238a1fccfc not found
-2026-07-10 12:04:47
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Successful_Transfer_20260711_141316.png
+2026-07-11 14:16:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:06
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:16:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:13
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:16:16
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:16:17
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:16:18
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:16:18
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:16:19
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:16:19
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:16:20
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:16:21
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:21
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:16:21
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:29
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:16:31
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:16:32
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:16:33
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:16:33
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:16:34
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:16:34
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:16:35
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:16:35
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:35
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 14:16:35
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:41
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:16:43
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:16:44
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:16:45
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:16:45
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:16:46
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:16:47
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:47
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:16:47
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:16:53
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:16:55
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:16:56
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:16:57
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:16:57
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:16:58
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:16:58
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:16:59
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:16:59
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:17:00
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:17:21
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:19:21
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:21
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:19:21
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:31
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:19:33
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:19:34
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:19:35
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:19:35
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:19:36
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:19:36
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:19:36
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:19:37
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:37
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:19:37
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:43
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:19:45
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:19:46
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:19:47
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:19:47
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:19:48
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:19:48
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:19:49
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:19:49
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:49
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 14:19:49
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:19:55
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:19:57
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:19:58
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:19:59
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:19:59
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:20:00
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:20:00
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:20:00
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:20:00
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:20:06
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:20:08
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:20:10
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:20:10
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:20:10
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:20:11
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:20:11
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:20:12
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:20:12
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:20:14
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:20:15
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:20:36
+                [main]
+                INFO 
+                Automation - [STEP] Input : Choose Bank
+2026-07-11 14:20:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:20:54
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:20:54
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:01
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:21:03
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:21:04
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:21:05
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:21:05
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:21:06
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:21:06
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:21:07
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:21:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:07
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:21:07
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:13
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:21:15
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:21:16
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:21:17
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:21:17
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:21:18
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:21:18
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:21:19
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:21:19
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:19
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 14:21:19
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:25
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:21:27
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:21:28
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:21:29
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:21:29
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:21:29
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:21:30
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:30
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:21:30
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:21:35
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:21:37
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:21:39
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 14:21:39
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 14:21:39
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 14:21:40
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 14:21:40
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:21:41
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:21:41
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:21:42
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:22:04
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:22:25
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:22:46
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a0c40310-5253-4203-b97c-3c238a1fccfc not found
-2026-07-10 12:04:47
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Successful_Transfer_20260711_142246.png
+2026-07-11 14:31:06
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:04:47
+2026-07-11 14:31:06
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 12:04:47
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:31:06
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:04:53
+2026-07-11 14:31:14
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 12:04:55
+2026-07-11 14:31:16
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 12:04:57
+2026-07-11 14:31:17
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 12:04:57
+2026-07-11 14:31:18
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 12:04:57
+2026-07-11 14:31:18
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 12:04:58
+2026-07-11 14:31:19
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 12:06:26
+2026-07-11 14:31:19
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:31:19
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:31:21
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:06:26
+2026-07-11 14:31:21
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 12:06:26
+                Automation - Scenario : Logout
+2026-07-11 14:31:21
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 12:06:32
+2026-07-11 14:31:26
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 12:06:34
+2026-07-11 14:31:29
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 12:06:35
+2026-07-11 14:31:30
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 12:06:36
+2026-07-11 14:31:31
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 12:06:36
+2026-07-11 14:31:31
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 12:06:37
+2026-07-11 14:31:32
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:26:30
+2026-07-11 14:31:32
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:31:32
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:31:33
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:26:30
+2026-07-11 14:31:33
                 [main]
                 INFO 
                 Automation - Scenario : Login with valid credentials
-2026-07-10 13:26:30
+2026-07-11 14:31:33
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:26:36
+2026-07-11 14:31:39
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 13:26:38
+2026-07-11 14:31:41
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 13:26:40
+2026-07-11 14:31:42
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:26:41
+2026-07-11 14:31:44
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:26:41
+2026-07-11 14:31:44
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:26:41
+2026-07-11 14:31:44
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:27:29
+2026-07-11 14:31:44
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:27:29
+2026-07-11 14:31:44
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:27:29
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:27:29
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:31:44
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:27:29
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:27:29
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:27:35
+2026-07-11 14:31:50
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 13:27:37
+2026-07-11 14:31:52
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 13:27:38
+2026-07-11 14:31:54
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:27:39
+2026-07-11 14:31:55
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:27:39
+2026-07-11 14:31:55
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:27:40
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:27:40
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 13:27:42
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:27:43
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 13:27:44
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:27:44
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:27:45
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 13:31:30
+2026-07-11 14:32:16
                 [main]
                 ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a5bd45c2-2b1e-4ff7-aefa-1084308dabc8 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a5bd45c2-2b1e-4ff7-aefa-1084308dabc8 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a5bd45c2-2b1e-4ff7-aefa-1084308dabc8 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a5bd45c2-2b1e-4ff7-aefa-1084308dabc8 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid a5bd45c2-2b1e-4ff7-aefa-1084308dabc8 not found
-2026-07-10 13:31:30
+                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Successful_Transfer_20260711_143216.png
+2026-07-11 14:33:12
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:31:30
+2026-07-11 14:33:12
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:31:30
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 8a0e21dc-a68e-4b4e-b0da-04b826228452 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 8a0e21dc-a68e-4b4e-b0da-04b826228452 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 8a0e21dc-a68e-4b4e-b0da-04b826228452 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 8a0e21dc-a68e-4b4e-b0da-04b826228452 not found
-2026-07-10 13:31:30
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 8a0e21dc-a68e-4b4e-b0da-04b826228452 not found
-2026-07-10 13:31:30
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 14:33:12
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:31:30
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:31:30
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:31:36
+2026-07-11 14:33:18
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 13:31:38
+2026-07-11 14:33:20
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 13:31:39
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:31:39
+2026-07-11 14:33:22
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:31:40
+2026-07-11 14:33:22
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:31:40
+2026-07-11 14:33:22
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:31:41
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:31:41
+2026-07-11 14:33:23
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:31:42
+2026-07-11 14:33:23
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:33:24
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:33:24
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:33:24
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 14:33:24
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:33:31
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:33:33
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:33:34
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:31:43
+2026-07-11 14:33:35
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:31:43
+2026-07-11 14:33:35
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:31:44
+2026-07-11 14:33:36
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:34:17
+2026-07-11 14:33:36
                 [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3e9fc8f6-abdf-4378-874e-0941f3805530 not found
-2026-07-10 13:34:17
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 14:33:36
                 [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3e9fc8f6-abdf-4378-874e-0941f3805530 not found
-2026-07-10 13:34:17
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3e9fc8f6-abdf-4378-874e-0941f3805530 not found
-2026-07-10 13:34:17
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 14:33:37
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:34:17
+2026-07-11 14:33:37
                 [main]
                 INFO 
                 Automation - Scenario : Login with valid credentials
-2026-07-10 13:34:17
+2026-07-11 14:33:37
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:34:17
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3d1a3170-266b-4bc6-b0c6-3c2746f20d6e not found
-2026-07-10 13:34:17
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3d1a3170-266b-4bc6-b0c6-3c2746f20d6e not found
-2026-07-10 13:34:17
-                [main]
-                ERROR
-                io.qameta.allure.AllureLifecycle - Could not update test case: test case with uuid 3d1a3170-266b-4bc6-b0c6-3c2746f20d6e not found
-2026-07-10 13:34:17
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:34:17
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:34:17
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:34:23
+2026-07-11 14:33:42
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 13:34:24
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:34:25
+2026-07-11 14:33:45
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 13:34:26
+2026-07-11 14:33:46
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:34:26
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:34:27
+2026-07-11 14:33:47
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:34:27
+2026-07-11 14:33:47
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:34:28
+2026-07-11 14:33:47
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:34:28
+2026-07-11 14:33:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:33:48
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 14:33:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 14:33:53
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 14:33:55
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 14:33:57
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:34:29
+2026-07-11 14:33:57
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:34:29
+2026-07-11 14:33:57
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:34:30
+2026-07-11 14:33:58
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:38:47
+2026-07-11 14:33:58
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:38:47
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 14:33:59
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:38:47
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 14:33:59
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:38:47
+                Automation - [STEP] Input : Input Amount
+2026-07-11 14:34:01
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:38:47
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 14:34:03
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:38:47
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 14:34:04
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:38:54
-                [main]
-                ERROR
-                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Login_with_valid_credentials_20260710_133853.png
-2026-07-10 13:38:56
-                [main]
-                ERROR
-                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Login_with_valid_credentials_20260710_133855.png
-2026-07-10 13:46:54
+                Automation - [STEP] Displayed : Halaman Inquiry Transfer
+2026-07-11 14:34:05
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:46:54
+                Automation - [ACTION] Click : Click Inquiry Transfer
+2026-07-11 14:34:05
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:46:54
+                Automation - [STEP] Displayed : Halaman Konfirmasi Transfer
+2026-07-11 14:34:05
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:46:54
+                Automation - [ACTION] Click : Click Lanjut Konfirmasi
+2026-07-11 14:34:06
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 13:46:54
+                Automation - [STEP] Displayed : Halaman Success Transfer
+2026-07-11 14:34:06
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:46:54
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:47:01
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:47:02
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:47:03
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:47:04
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 13:47:05
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:47:05
+                Automation - [ACTION] Click : Click Success Transfer
+2026-07-11 14:34:07
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:47:05
+2026-07-11 14:34:07
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:47:06
+2026-07-11 14:34:07
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:47:06
+2026-07-11 15:18:25
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:18:25
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 15:18:25
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:18:38
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:18:40
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:18:41
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:47:07
+2026-07-11 15:18:42
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:47:07
+2026-07-11 15:18:42
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:47:08
+2026-07-11 15:18:43
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:49:10
+2026-07-11 15:18:43
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:18:44
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:18:44
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:49:10
+2026-07-11 15:18:44
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:49:10
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:49:10
+                Automation - Scenario : Logout
+2026-07-11 15:18:44
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 13:49:10
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 13:49:10
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 13:49:17
+2026-07-11 15:18:50
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 13:49:18
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 13:49:19
+2026-07-11 15:18:52
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 13:49:20
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 13:49:20
+2026-07-11 15:18:53
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 13:49:21
+2026-07-11 15:18:54
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:49:21
+2026-07-11 15:18:54
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:49:22
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 13:49:22
+2026-07-11 15:18:55
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 13:49:22
+2026-07-11 15:18:55
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 15:18:56
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 15:18:56
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:18:56
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 15:18:56
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:19:02
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:19:05
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:19:06
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:19:07
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 13:49:22
+2026-07-11 15:19:07
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 13:49:23
+2026-07-11 15:19:08
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:01:03
+2026-07-11 15:19:08
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:01:03
+2026-07-11 15:19:08
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:01:03
+                Automation - Scenario : Login with invalid credentials
+2026-07-11 15:19:08
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:01:12
+2026-07-11 15:19:15
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 14:01:14
+2026-07-11 15:19:17
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 14:01:15
+2026-07-11 15:19:18
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 14:01:16
+2026-07-11 15:19:19
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Username dan Password harus diisi
+2026-07-11 15:19:20
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:19:20
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 15:19:20
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:19:26
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:19:28
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:19:29
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:19:30
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:01:16
+2026-07-11 15:19:30
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:01:17
+2026-07-11 15:19:31
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:23:47
+2026-07-11 15:19:31
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:23:47
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:19:31
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:23:47
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:19:31
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:23:47
+                Automation - [STEP] Input : Input Amount
+2026-07-11 15:19:33
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:23:47
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 15:19:36
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:23:47
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 15:19:37
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:23:55
+                Automation - [STEP] Displayed : Halaman Inquiry Transfer
+2026-07-11 15:19:37
                 [main]
                 INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:23:56
+                Automation - [ACTION] Click : Click Inquiry Transfer
+2026-07-11 15:19:37
                 [main]
                 INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:23:58
+                Automation - [STEP] Displayed : Halaman Konfirmasi Transfer
+2026-07-11 15:19:37
                 [main]
                 INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:23:59
+                Automation - [ACTION] Click : Click Lanjut Konfirmasi
+2026-07-11 15:19:38
                 [main]
                 INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:23:59
+                Automation - [STEP] Displayed : Halaman Success Transfer
+2026-07-11 15:19:38
                 [main]
                 INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:24:00
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:24:00
+                Automation - [ACTION] Click : Click Success Transfer
+2026-07-11 15:19:39
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:24:00
+2026-07-11 15:19:39
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:24:01
+2026-07-11 15:19:39
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:24:01
+2026-07-11 15:30:23
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:30:23
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 15:30:23
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:30:29
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:30:32
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:30:33
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:30:34
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:24:01
+2026-07-11 15:30:34
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:24:02
+2026-07-11 15:30:35
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:32:31
+2026-07-11 15:30:35
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:30:36
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:30:36
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:32:31
+2026-07-11 15:30:36
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 15:30:36
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:32:31
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:32:31
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:32:31
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:32:31
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:32:40
+2026-07-11 15:30:42
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 14:32:40
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:32:42
+2026-07-11 15:30:44
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 14:32:42
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:32:43
+2026-07-11 15:30:45
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 14:32:44
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:32:44
+2026-07-11 15:30:46
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:32:44
+2026-07-11 15:30:46
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:32:45
+2026-07-11 15:30:47
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:30:47
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 15:30:48
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 15:30:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:30:48
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 15:30:48
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:30:53
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:30:56
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:30:58
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:30:59
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:32:45
+2026-07-11 15:30:59
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:32:45
+2026-07-11 15:30:59
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:32:46
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:34:14
+2026-07-11 15:31:00
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:34:14
+2026-07-11 15:31:00
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:34:14
+                Automation - Scenario : Login with invalid credentials
+2026-07-11 15:31:00
                 [main]
                 INFO 
                 Automation - ==================================================
-2026-07-10 14:34:22
+2026-07-11 15:31:05
                 [main]
                 INFO 
                 Automation - [STEP] Input : Username
-2026-07-10 14:34:24
+2026-07-11 15:31:08
                 [main]
                 INFO 
                 Automation - [STEP] Input : Password
-2026-07-10 14:34:25
+2026-07-11 15:31:08
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 14:34:26
+2026-07-11 15:31:09
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Username dan Password harus diisi
+2026-07-11 15:31:10
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:31:10
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 15:31:10
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:31:16
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:31:19
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:31:20
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:31:21
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:34:26
+2026-07-11 15:31:21
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:34:27
+2026-07-11 15:31:22
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:35:14
+2026-07-11 15:31:22
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:35:14
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:31:22
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:35:14
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:31:23
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:35:14
+                Automation - [STEP] Input : Input Amount
+2026-07-11 15:31:24
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:35:14
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 15:31:26
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:35:14
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 15:31:27
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:35:20
+                Automation - [STEP] Displayed : Halaman Inquiry Transfer
+2026-07-11 15:31:27
                 [main]
                 INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:35:21
+                Automation - [ACTION] Click : Click Inquiry Transfer
+2026-07-11 15:31:28
                 [main]
                 INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:35:22
+                Automation - [STEP] Displayed : Halaman Konfirmasi Transfer
+2026-07-11 15:31:28
                 [main]
                 INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:35:23
+                Automation - [ACTION] Click : Click Lanjut Konfirmasi
+2026-07-11 15:31:28
                 [main]
                 INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:35:23
+                Automation - [STEP] Displayed : Halaman Success Transfer
+2026-07-11 15:31:28
                 [main]
                 INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:35:24
+                Automation - [ACTION] Click : Click Success Transfer
+2026-07-11 15:31:29
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:35:24
+2026-07-11 15:31:29
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:35:25
+2026-07-11 15:31:29
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:31:30
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:31:30
+                [main]
+                INFO 
+                Automation - Scenario : Failed Transfer and input amount is null
+2026-07-11 15:31:30
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:31:35
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:31:37
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:31:38
                 [main]
                 INFO 
                 Automation - [ACTION] Click : Button Login
-2026-07-10 14:35:25
+2026-07-11 15:31:39
                 [main]
                 INFO 
                 Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:35:25
+2026-07-11 15:31:39
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:35:26
+2026-07-11 15:31:40
                 [main]
                 INFO 
                 Automation - [PASS] Dashboard displayed
-2026-07-10 14:35:26
+2026-07-11 15:31:40
                 [main]
                 INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:36:36
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:31:41
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:36:36
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:31:41
                 [main]
                 INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:36:36
+                Automation - [STEP] Input : Input Amount
+2026-07-11 15:31:42
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:36:36
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 15:31:43
                 [main]
                 INFO 
-                Automation - ==================================================
-2026-07-10 14:36:36
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:36:36
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:36:42
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:36:44
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:36:45
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:36:46
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:36:46
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:36:46
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:36:46
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:36:47
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:36:48
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:36:48
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:36:48
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:36:50
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:49:37
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:49:43
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:49:45
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:49:47
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:49:47
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:49:47
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:49:48
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:49:49
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:49:52
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:49:54
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:49:54
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 14:49:54
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 14:49:56
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:57:20
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 14:57:28
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:57:28
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 14:57:30
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:57:31
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 14:57:31
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:57:32
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 14:57:32
-                [main]
-                ERROR
-                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Login_with_valid_credentials_20260710_145732.png
-2026-07-10 14:57:34
-                [main]
-                ERROR
-                Automation - [FAIL] Screenshot : /Users/umaaamm/Documents/UMAM/AUTOMATION/mobile-automation/screenshots/Login_with_valid_credentials_20260710_145734.png
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - Scenario : Login with valid credentials
-2026-07-10 15:06:12
-                [main]
-                INFO 
-                Automation - ==================================================
-2026-07-10 15:06:19
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 15:06:21
-                [main]
-                INFO 
-                Automation - [STEP] Input : Username
-2026-07-10 15:06:21
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 15:06:22
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 15:06:23
-                [main]
-                INFO 
-                Automation - [STEP] Input : Password
-2026-07-10 15:06:23
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 15:06:23
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 15:06:24
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
-2026-07-10 15:06:24
-                [main]
-                INFO 
-                Automation - [ACTION] Click : Button Login
-2026-07-10 15:06:25
-                [main]
-                INFO 
-                Automation - [VERIFY] Verify Dashboard
-2026-07-10 15:06:25
-                [main]
-                INFO 
-                Automation - [STEP] Displayed : Title Halaman Dashboard
-2026-07-10 15:06:26
-                [main]
-                INFO 
-                Automation - [PASS] Dashboard displayed
+                Automation - [STEP] Displayed : Nominal dan Bank harus diisi

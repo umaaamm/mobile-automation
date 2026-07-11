@@ -1,0 +1,9 @@
+[INFO] Logout
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed
+[ACTION] Click : Button Logout
+[STEP] Displayed : Title Halaman Login

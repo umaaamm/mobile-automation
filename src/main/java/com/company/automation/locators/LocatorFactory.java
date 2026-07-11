@@ -19,4 +19,9 @@ public final class LocatorFactory {
     public static By accessibility(String value) {
         return AppiumBy.accessibilityId(value);
     }
+
+    public static By flutterText(String text) {
+        return By.xpath("//*[@content-desc='" + text + "']");
+    }
+
 }
