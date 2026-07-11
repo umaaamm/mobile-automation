@@ -1,0 +1,12 @@
+[INFO] Failed Transfer and input amount is null
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed
+[ACTION] Click : Button Transfer
+[STEP] Displayed : Halaman Transfer
+[STEP] Input : Input Amount
+[ACTION] Click : Click Input Transfer
+[STEP] Displayed : Nominal dan Bank harus diisi

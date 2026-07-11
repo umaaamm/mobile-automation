@@ -2258,3 +2258,303 @@
                 [main]
                 INFO 
                 Automation - [STEP] Displayed : Nominal dan Bank harus diisi
+2026-07-11 15:39:53
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:39:53
+                [main]
+                INFO 
+                Automation - Scenario : Navigate to Transfer Page
+2026-07-11 15:39:53
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:39:59
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:40:01
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:40:03
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:40:03
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:40:03
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:40:04
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:40:04
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:40:05
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:40:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:06
+                [main]
+                INFO 
+                Automation - Scenario : Logout
+2026-07-11 15:40:06
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:12
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:40:14
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:40:15
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:40:16
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:40:16
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:40:17
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:40:17
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Logout
+2026-07-11 15:40:18
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Login
+2026-07-11 15:40:18
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:18
+                [main]
+                INFO 
+                Automation - Scenario : Login with valid credentials
+2026-07-11 15:40:18
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:25
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:40:27
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:40:28
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:40:29
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:40:29
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:40:30
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:40:31
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:31
+                [main]
+                INFO 
+                Automation - Scenario : Login with invalid credentials
+2026-07-11 15:40:31
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:36
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:40:39
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:40:40
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:40:40
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Username dan Password harus diisi
+2026-07-11 15:40:42
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:42
+                [main]
+                INFO 
+                Automation - Scenario : Successful Transfer
+2026-07-11 15:40:42
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:40:47
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:40:50
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:40:51
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:40:52
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:40:52
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:40:53
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:40:53
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:40:53
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:40:53
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 15:40:55
+                [main]
+                INFO 
+                Automation - [STEP] Select dropdown : BCA
+2026-07-11 15:40:57
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 15:40:58
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Inquiry Transfer
+2026-07-11 15:40:58
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Click Inquiry Transfer
+2026-07-11 15:40:59
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Konfirmasi Transfer
+2026-07-11 15:40:59
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Click Lanjut Konfirmasi
+2026-07-11 15:41:00
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Success Transfer
+2026-07-11 15:41:00
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Click Success Transfer
+2026-07-11 15:41:00
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:41:00
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:41:00
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:41:01
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:41:01
+                [main]
+                INFO 
+                Automation - Scenario : Failed Transfer and input amount is null
+2026-07-11 15:41:01
+                [main]
+                INFO 
+                Automation - ==================================================
+2026-07-11 15:41:07
+                [main]
+                INFO 
+                Automation - [STEP] Input : Username
+2026-07-11 15:41:09
+                [main]
+                INFO 
+                Automation - [STEP] Input : Password
+2026-07-11 15:41:10
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Login
+2026-07-11 15:41:11
+                [main]
+                INFO 
+                Automation - [VERIFY] Verify Dashboard
+2026-07-11 15:41:11
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Title Halaman Dashboard
+2026-07-11 15:41:12
+                [main]
+                INFO 
+                Automation - [PASS] Dashboard displayed
+2026-07-11 15:41:12
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Button Transfer
+2026-07-11 15:41:13
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Halaman Transfer
+2026-07-11 15:41:13
+                [main]
+                INFO 
+                Automation - [STEP] Input : Input Amount
+2026-07-11 15:41:14
+                [main]
+                INFO 
+                Automation - [ACTION] Click : Click Input Transfer
+2026-07-11 15:41:15
+                [main]
+                INFO 
+                Automation - [STEP] Displayed : Nominal dan Bank harus diisi

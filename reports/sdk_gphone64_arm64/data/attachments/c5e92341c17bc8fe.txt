@@ -1,0 +1,21 @@
+[INFO] Successful Transfer
+[STEP] Input : Username
+[STEP] Input : Password
+[ACTION] Click : Button Login
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed
+[ACTION] Click : Button Transfer
+[STEP] Displayed : Halaman Transfer
+[STEP] Input : Input Amount
+[STEP] Select dropdown : BCA
+[ACTION] Click : Click Input Transfer
+[STEP] Displayed : Halaman Inquiry Transfer
+[ACTION] Click : Click Inquiry Transfer
+[STEP] Displayed : Halaman Konfirmasi Transfer
+[ACTION] Click : Click Lanjut Konfirmasi
+[STEP] Displayed : Halaman Success Transfer
+[ACTION] Click : Click Success Transfer
+[VERIFY] Verify Dashboard
+[STEP] Displayed : Title Halaman Dashboard
+[PASS] Dashboard displayed
